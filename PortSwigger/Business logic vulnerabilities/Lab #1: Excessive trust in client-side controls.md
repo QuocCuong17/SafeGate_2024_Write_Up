@@ -8,7 +8,7 @@ Mục tiêu của bài lab này là khai thác **lỗ hổng logic** do sự tin
 
 ---
 Đăng nhập với wiener/peter
-![image](https://hackmd.io/_uploads/Hy78oI99C.png)
+[![image](https://hackmd.io/_uploads/Hy78oI99C.png)](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_9c06d6eaff185c9687d487affa7f0faf.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1723654141&Signature=X4PGJ%2FF21NQFOTFzwOOejlslN3M%3D)
 <br>
 Test thử chức năng thêm vào giỏ hàng
 ![image](https://hackmd.io/_uploads/BkQii859R.png)
